@@ -7,10 +7,8 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs30 \cf0 \cb2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec3 # hello-world\cb1 \
+# hello-world\cb1 \
 \cb2 Hello World repository for Git tutorial\cb1 \
 \cb2 This is an example repository for the Git tutoial on https://www.w3schools.com\cb1 \
 \
 \cb2 This repository is built step by step in the tutorial.}
-1.changes directly
-2.another change to test git pull
